@@ -5,10 +5,10 @@ Accenture Prueba Técnica
 
 ### Pre-requisitos
 
-Tener instalado mongodb y tener los directorios en el disco C:/data/db 
-Tener instalado NetBeans IDE
-Tener instalado el intellij IDEA
-Tener configurado del JDK 1.8 en el intellij
+Tener instalado mongodb y tener los directorios en el disco C:/data/db,
+tener instalado NetBeans IDE,
+tener instalado el intellij IDEA,
+tener configurado del JDK 1.8 en el intellij,
 
 ## Observaciones
 En el repositorio adjunto todo lo solicitado, adicionando un arhivo de texto con el formato json con el que se realizaron pruebas del microservicio y puede ser de utilidad, igualmente se encuentran las siguientes carpetas:
