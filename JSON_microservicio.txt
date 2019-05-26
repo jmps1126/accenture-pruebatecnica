@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Apple",
+        "description": "Apple Inc. es una compañia multinacional de gran tamaño y costo, fundada por Steve Jobs en la que se diseñan Software y equipos de alta tecnologia que van dirigidos a todo el mundo y son de increible aceptacion.",
+        "url": "https://www.apple.com/co/",
+        "numberPhone": " 1-800-275-2273",
+        "address": {
+            "country": "Colombia",
+            "city": "Medellin - Ant",
+            "description": " Centro Comercial Santafé Carrera 43 a # 7 sur - 170 | Local 3222, Medellín, Antioquia"
+        },
+        "products": [
+            {
+                "name": "Iphone x",
+                "description": "El Apple iPhone X trabaja sobre el procesador Apple A11 Bionic y 3 GB de memoria RAM. ... En cuanto a almacenamiento, el iPhone X parte de 64 GB y es almacenamiento no ampliable.",
+                "price": "$ 2.500.000.00",
+                "currency": "COP"
+            },
+            {
+                "name": "Apple Watch Series 3",
+                "description": "El Apple Watch Series 3 viene con conexión celular. Haz llamadas, recibe mensajes y escucha música en streaming aun sin el teléfono.",
+                "price": "$ 1.500.000.00",
+                "currency": "COP"
+            },
+            {
+                "name": "Ipad",
+                "description": "iPad es una línea de tabletas diseñadas y comercializadas por Apple Inc. La primera generación fue anunciada el 27 de enero de 2010",
+                "price": "$ 2.000.000.00",
+                "currency": "COP"
+            }
+        ]
+    },
+    {
+        "name": "Huawei",
+        "description": "es una empresa privada multinacional china de alta tecnología especializada en investigación y desarrollo (I+D), producción electrónica y marketing de equipamiento de comunicaciones. Además, provee soluciones de redes personalizadas para operadores de la industria de telecomunicaciones..",
+        "url": "https://www.consumer.huawei.com/co/",
+        "numberPhone": "01-800-0949400",
+        "address": {
+            "country": "Colombia",
+            "city": "Bogotá - Cun",
+            "description": "Cl. 108 #45-2, Bogotá"
+        },
+        "products": [
+            {
+                "name": "Huawei p30",
+                "description": "Reescribe las reglas de la fotografía con el HUAWEI P30 Pro. Las cuatro cámaras Leica están equipadas con un increíble objetivo SuperZoom",
+                "price": "$ 2.800.000.00",
+                "currency": "COP"
+            },
+            {
+                "name": "Huawei MediaPad M5 lite",
+                "description": "La tablet HUAWEI MediaPad M5 lite incorpora una brillante pantalla de 1080p y 10.1 pulgadas en la que no te perderás ningún detalle mientras disfrutas tu película o videojuego favorito.",
+                "price": "$ 1.700.000.00",
+                "currency": "COP"
+            },
+            {
+                "name": "Huawei Watch GT",
+                "description": "Su pantalla AMOLED de doble corona y diseño liviano, hacen de este un reloj elegante y exclusivo",
+                "price": "$ 2.000.000.00",
+                "currency": "COP"
+            }
+        ]
+    }
+]
