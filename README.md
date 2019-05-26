@@ -1,87 +1,22 @@
-# Project Title
+# Proyecto
 
 Accenture Prueba Técnica
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Pre-requisitos
 
-### Prerequisites
+Tener instalado mongodb y tener los directorios en el disco C:/data/db 
+Tener instalado NetBeans IDE
+Tener instalado el intellij IDEA
+Tener configurado del JDK 1.8 en el intellij
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Observaciones
+En el repositorio adjunto todo lo solicitado y en el cual se encuentran las siguientes carpetas:
+ *  Evidencias: En la cual adjunto imagenes con evidencias tanto de las pruebas unitarias como del consumo del microservicio
+                en el postman.
+ *  Herencia: En la cual adjunto un ejercicio donde se utiliza la herencia de clases ese fue realizado en netbeans ide.
+ * Prueba: En la cual adjunto el microservicio solicitado en la prueba.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Juan Manuel Pulgarin Serna** - *<jmps1126@gmail.com>* - [Perfil](https://github.com/jmps1126)
